@@ -3,3 +3,5 @@ My first repository
 
 Tutorial from https://www.Fynerd.pl
 I try my best!
+
+what to say, i try very hard for me
